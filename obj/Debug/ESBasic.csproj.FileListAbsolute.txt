@@ -1,0 +1,31 @@
+C:\Documents and Settings\Administrator\桌面\ESBasic\bin\Debug\ESBasic.XML
+C:\Documents and Settings\Administrator\桌面\ESBasic\bin\Debug\ESBasic.dll
+C:\Documents and Settings\Administrator\桌面\ESBasic\bin\Debug\ESBasic.pdb
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.AgileProgressBar.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.CaptureScreenForm.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.EnumComboBox.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.ExListView.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.FaceEmotionBoard.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.ColorChooser.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.RichTimerConfigure.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.Thumbnail.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.Widget.ThumbnailListBox.resources
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.dll
+C:\Documents and Settings\Administrator\桌面\ESBasic\obj\Debug\ESBasic.pdb
+C:\Users\wangkai3\Desktop\ESBasic\bin\Debug\ESBasic.XML
+C:\Users\wangkai3\Desktop\ESBasic\bin\Debug\ESBasic.dll
+C:\Users\wangkai3\Desktop\ESBasic\bin\Debug\ESBasic.pdb
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.csprojResolveAssemblyReference.cache
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.AgileProgressBar.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.CaptureScreenForm.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.EnumComboBox.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.ExListView.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.FaceEmotionBoard.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.ColorChooser.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.RichTimerConfigure.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.Thumbnail.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.Widget.ThumbnailListBox.resources
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.csproj.GenerateResource.Cache
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.dll
+C:\Users\wangkai3\Desktop\ESBasic\obj\Debug\ESBasic.pdb
